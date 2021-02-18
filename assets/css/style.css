@@ -225,7 +225,7 @@ footer {
 }
 
 .three-reasons-heading {
-marginbottom: 15px;
+margin-bottom: 15px;
 }
 
 /*----------------------------------------Personal Info */
@@ -257,7 +257,7 @@ vertical-align: top;
     font-weight:700;
 }
 
-.personal-info-item .value .{
+.personal-info-item .value {
     position:relative;
     width: 60%;
 }
